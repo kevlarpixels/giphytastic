@@ -1,0 +1,54 @@
+body {
+    background-image: url(../images/akumaImg.svg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    
+    background-size: cover;
+    position: relative;
+    background-color: #F4F4F4;
+}
+
+.jumbotron {
+    background-color: rgba(217, 73, 29, 1) !important;
+    padding-bottom: 20px;
+    color: #3D3D3B !important;
+    
+}
+
+h1 {
+    font-size: 64px;
+}
+
+#form {
+    margin-top: 24px;
+    margin-bottom: 24px;
+}
+
+.images {
+    display: inline-block;
+    float: left;
+  width: 50%; /* three boxes (use 25% for four, and 50% for two, etc) */
+  padding: 50px;
+}
+
+
+
+#midS {
+    margin-top: 24px;
+    margin-bottom: 24px;
+}
+
+.videoGames-buton {
+    margin-right: 20px;
+    margin-bottom: 10px;
+}
+
+#submit {
+    background-color: #7F8489 !important;
+    color: #F4F4F4 !important;
+}
+
+.videoGames-buton {
+    background-color: #3D3D3B !important;
+    color: #F4F4F4 !important;
+}
